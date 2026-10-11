@@ -1,0 +1,20 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary & Editor files
+*.tmp
+*.bak
+*.swp
+*~
+.vscode/
+.idea/
+
+# Environment and sensitive secrets (if added later)
+.env
+.env.local
+
+# Note: All assets, PDFs, images, and context docs ARE tracked
